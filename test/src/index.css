@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 320px;
+  margin: auto;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card img {
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
